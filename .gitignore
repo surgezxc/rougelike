@@ -40,3 +40,8 @@ Thumbs.db
 
 # Cursor (local IDE state — omit from game repo)
 .cursor/
+
+# Personal / coursework (do not commit)
+/docx_edit/
+/Курсовая*.docx
+/Курсовая*.pdf
