@@ -1,0 +1,28 @@
+{
+    "asset": "d4b1701bd82ba41509ff523747957fe3",
+    "fileName": "019e268b-9e81-7b41-bd8d-550c7f889b98.jpg",
+    "prompt": "Top-down 2D game asset, seamless stone wall top surface, dark grey granite, flat orthographic top view, absolutely no borders, no frames, no outlines, high quality, fills the entire square perfectly. 2D sprite.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

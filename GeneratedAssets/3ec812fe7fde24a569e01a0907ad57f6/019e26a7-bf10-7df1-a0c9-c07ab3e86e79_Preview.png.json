@@ -1,0 +1,12 @@
+{
+    "asset": "3ec812fe7fde24a569e01a0907ad57f6",
+    "fileName": "019e26a7-bf10-7df1-a0c9-c07ab3e86e79_Preview.png",
+    "prompt": "Bright light oak wood laminate flooring, long wooden planks, clean texture, no noise, tileable, 2D top-down view, very bright and warm colors.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 611256534,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

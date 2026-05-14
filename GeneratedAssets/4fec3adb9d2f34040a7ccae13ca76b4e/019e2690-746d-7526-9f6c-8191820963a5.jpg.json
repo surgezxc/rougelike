@@ -1,0 +1,28 @@
+{
+    "asset": "4fec3adb9d2f34040a7ccae13ca76b4e",
+    "fileName": "019e2690-746d-7526-9f6c-8191820963a5.jpg",
+    "prompt": "Top-down 2D dungeon wall tile. 2.5D perspective. The top half is a horizontal stone slab (top surface), the bottom half is the front face with stone bricks and shadow. Dark grey granite. Seamless horizontal tiling. No borders, no frames. High quality.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

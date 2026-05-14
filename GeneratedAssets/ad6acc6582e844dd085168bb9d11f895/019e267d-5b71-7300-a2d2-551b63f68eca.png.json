@@ -1,0 +1,28 @@
+{
+    "asset": "ad6acc6582e844dd085168bb9d11f895",
+    "fileName": "019e267d-5b71-7300-a2d2-551b63f68eca.png",
+    "prompt": "Top-down 2D game asset, dark soil ground texture, seamless, high quality, detailed dirt and pebbles. Dark brown tones. No transparency. Full frame.",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

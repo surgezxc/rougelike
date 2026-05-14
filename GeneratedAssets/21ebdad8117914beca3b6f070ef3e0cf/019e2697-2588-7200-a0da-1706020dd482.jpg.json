@@ -1,0 +1,28 @@
+{
+    "asset": "21ebdad8117914beca3b6f070ef3e0cf",
+    "fileName": "019e2697-2588-7200-a0da-1706020dd482.jpg",
+    "prompt": "Top-down 2D game asset, horizontal wooden plank floor, warm brown, seamless tiling, high quality, clean wood grain. 2D sprite.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

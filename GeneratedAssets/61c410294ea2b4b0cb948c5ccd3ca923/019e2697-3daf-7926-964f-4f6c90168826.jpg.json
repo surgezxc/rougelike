@@ -1,0 +1,28 @@
+{
+    "asset": "61c410294ea2b4b0cb948c5ccd3ca923",
+    "fileName": "019e2697-3daf-7926-964f-4f6c90168826.jpg",
+    "prompt": "Top-down 2D game asset, top surface of a dungeon wall, dark grey granite slab, seamless, clean edges. 2D sprite.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

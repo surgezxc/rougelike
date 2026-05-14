@@ -1,0 +1,28 @@
+{
+    "asset": "a40d978e73d5b42e8be7dea4976fa5ff",
+    "fileName": "019e2680-f174-79d7-b8ba-6b3ea3a81c32.png",
+    "prompt": "Top-down 2D game asset, a single thin stone wall segment, horizontal, dark grey stone bricks, centered in frame with transparency on top and bottom sides. Matching the style of vertical stone wall. Seamlessly tileable horizontally. 2D sprite.",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

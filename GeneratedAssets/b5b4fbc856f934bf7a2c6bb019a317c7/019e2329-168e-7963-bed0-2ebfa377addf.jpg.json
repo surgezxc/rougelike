@@ -1,0 +1,28 @@
+{
+    "asset": "b5b4fbc856f934bf7a2c6bb019a317c7",
+    "fileName": "019e2329-168e-7963-bed0-2ebfa377addf.jpg",
+    "prompt": "A pair of cute bunny slippers, soft white fur, pink ears, cartoon kawaii style, top-down perspective, game asset, single object.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

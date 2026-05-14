@@ -1,0 +1,28 @@
+{
+    "asset": "2f68a96006ec24631a28b53b2b2b5e20",
+    "fileName": "019e2696-22e9-7c6b-a752-d5d34b227316.jpg",
+    "prompt": "Top-down 2D game asset, front face of a dungeon wall, large horizontal stone bricks, dark grey granite, shaded, seamless horizontal tiling, NO borders, NO frames. 2D sprite.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

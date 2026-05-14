@@ -1,0 +1,12 @@
+{
+    "asset": "a3fe66834b2974e45984bd7f3f4c73f9",
+    "fileName": "019e2305-4c14-72d8-8816-117d4ac22931_Preview.png",
+    "prompt": "Light brown laminate wood flooring, tileable, seamless texture, high quality, realistic house interior style.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 1078178483,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "9007981706f2e468a8dca75857f76447",
+    "fileName": "019e26a2-2bd4-7066-8fbb-c52f0abea965_Preview.jpg",
+    "prompt": "Wooden laminate floor, light brown oak planks, clean pixel art style, low detail, minimal noise, tileable, 2D top-down game asset.",
+    "negativePrompt": "",
+    "model": "hand-painted-textures-2-0",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 659761404,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}
